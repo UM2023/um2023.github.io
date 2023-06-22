@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6NIhX4phQuW_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cannabis Michigan4</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cannabis_Michigan4_ORG">
+    <organization identifier="Cannabis_Michigan4_ORG">
+      <title>Cannabis Michigan4</title>
+      <item identifier="Cannabis_Michigan2_SCO" isvisible="true" identifierref="__6NIhX4phQuW_course_id_RES">
+        <title>Cannabis Michigan4</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6NIhX4phQuW_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6rItyAgbjYL_80_DX574_DY574_CX318_CY288.png" />
+      <file href="mobile/5dO04034zWT_80_DX550_DY550_CX334_CY223.png" />
+      <file href="mobile/5xLtni3yH8o_80_DX528_DY528_CX224_CY264.png" />
+      <file href="mobile/5u6eRuNk0wz_80_DX1366_DY1366_CX816_CY470.png" />
+      <file href="mobile/66qZPpNbTb5_80_DX738_DY738_CX229_CY369.png" />
+      <file href="mobile/6YLSQcQJqeH_80_DX714_DY714_CX490_CY416.png" />
+      <file href="mobile/5x0w5Ed0MEr_80_DX738_DY738_CX489_CY417.png" />
+      <file href="mobile/6hTfn7kJ3Sv_80_DX714_DY714_CX488_CY416.png" />
+      <file href="mobile/5t0Ap0yToxi_80_DX714_DY714_CX496_CY416.png" />
+      <file href="mobile/5oGxBJSO5rq_80_DX692_DY692_CX495_CY424.png" />
+      <file href="mobile/5zqsMtUFWtv_80_DX704_DY704_CX493_CY416.png" />
+      <file href="mobile/6ZSeN0Jwrep_80_P_0_0_585_854_DX1524_DY1524_CX342_CY500.png" />
+      <file href="mobile/6EfEhDaPozi_80_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="mobile/5usW37mV7ts_80_P_0_0_723_854_DX1532_DY1532_CX426_CY503.png" />
+      <file href="mobile/5d3XbwraWSr_80_P_0_0_730_854_DX1532_DY1532_CX429_CY502.png" />
+      <file href="mobile/5tjcSsRLuFw_80_P_0_0_578_854_DX1532_DY1532_CX339_CY501.png" />
+      <file href="mobile/686GyeWDdsU_80_P_0_0_736_854_DX1532_DY1532_CX433_CY503.png" />
+      <file href="mobile/6IMr2Ls7jJf_80_DX512_DY512_CX208_CY256.png" />
+      <file href="mobile/5okV6iFllmL_80_DX1298_DY1298_CX669_CY304.png" />
+      <file href="mobile/6DByFghuFFn_80_DX372_DY372_CX186_CY140.png" />
+      <file href="mobile/5f03pKiMeiW_80_DX1440_DY1440_CX960_CY488.png" />
+      <file href="mobile/5vwceN8risu_80_DX720_DY720_CX229_CY360.png" />
+      <file href="mobile/66QA3dUyAp2_80_DX1440_DY1440_CX843_CY656.png" />
+      <file href="mobile/5sRIhoYWGnK_80_DX980_DY980_CX704_CY148.png" />
+      <file href="mobile/6bk9AAsMuby_80_DX1440_DY1440_CX960_CY488.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5kuWpPcYegv.jpg" />
+      <file href="mobile/Slide6eZ00pUzC2z.jpg" />
+      <file href="mobile/txt__default_6KFSSTDCVtp.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cebxAIxtKh.js" />
+      <file href="html5/data/js/5ja0PKKfePe.js" />
+      <file href="html5/data/js/5jkOjEtLURl.js" />
+      <file href="html5/data/js/5srLOnfxVLO.js" />
+      <file href="html5/data/js/5v5MYFD9q9I.js" />
+      <file href="html5/data/js/5WOjSvZiarT.js" />
+      <file href="html5/data/js/5YdgoIjUZ3O.js" />
+      <file href="html5/data/js/5zeWtoCbrr6.js" />
+      <file href="html5/data/js/5ZJIUkLQoCk.js" />
+      <file href="html5/data/js/61e136noVgN.js" />
+      <file href="html5/data/js/61SxjUmj2Yv.js" />
+      <file href="html5/data/js/6BE1OkSH3N6.js" />
+      <file href="html5/data/js/6CxUmlE3hrM.js" />
+      <file href="html5/data/js/6mbfYFOc4eV.js" />
+      <file href="html5/data/js/6mx0MrTJJ0a.js" />
+      <file href="html5/data/js/6Ol3BFzjiKd.js" />
+      <file href="html5/data/js/6PLW7mmb5q3.js" />
+      <file href="html5/data/js/6YRCCLd575U.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
